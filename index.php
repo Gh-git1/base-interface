@@ -248,7 +248,7 @@ outputBtn4 = function() {
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 <script>
   window.watsonAssistantChatOptions = {
-      integrationID: "f8941c78-7a44-4887-824e-f5b0ee94235d", // The ID of this integration.
+      integrationID: "4e4b31b8-f850-431b-8b4e-7e3e2179c6d9", // The ID of this integration.
       region: "eu-de", // The region your integration is hosted in.
       serviceInstanceID: "1512e5ed-8441-4498-a42e-d10571e2de27", // The ID of your service instance.
       onLoad: function(instance) { instance.render(); }
@@ -258,6 +258,6 @@ outputBtn4 = function() {
     t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
     document.head.appendChild(t);
   });
-</script>
+</script
 </body>
 </html>
